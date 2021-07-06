@@ -4,7 +4,7 @@
 The Pacman project completed while (informally) doing the CS188 course offered by University of California, Berkeley (Fall '18)
 
 ## Search
-In this project, Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I built general search algorithms and apply them to Pacman scenarios.
+In this project, Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I built general search algorithms and applied them to Pacman scenarios.
 
 Check out the syntax for running various scripts and games of different sizes and paramenters at: [Project 1](https://inst.eecs.berkeley.edu/~cs188/fa18/project1.html)
 
@@ -14,7 +14,7 @@ In this project, I designed agents for the classic version of Pacman, including 
 Check out the syntax for running various scripts and games of different sizes and paramenters at: [Project 2](https://inst.eecs.berkeley.edu/~cs188/fa18/project2.html)
 
 ## Reinforcement Learning
-In this project, I implemented value iteration and Q-learning. I tested your agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
+In this project, I implemented value iteration and Q-learning. I tested the agents first on Gridworld (from class), then applied them to a simulated robot controller (Crawler) and finally to Pacman.
 
 Check out the syntax for running various scripts and games of different sizes and paramenters at: [Project 3](https://inst.eecs.berkeley.edu/~cs188/fa18/project3.html)
 
