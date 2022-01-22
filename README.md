@@ -31,7 +31,9 @@ A neural network to classify digits, and more!
 Check out the syntax for running various scripts and games at: [Project 5](https://inst.eecs.berkeley.edu/~cs188/fa18/project5.html)
 
 ## Author
-Vansh Gupta: https://github.com/V-G-spec
+[Vansh Gupta](https://github.com/V-G-spec)  
+Undergraduate student, Electrical Engineering Department  
+Indian Institute of Technology, Delhi
 
 ## Reference
 ReadMe file inspired by the one made by [Ke Xu](https://github.com/kxu9gh), [Jie Zhang](https://github.com/zhangjiedev). It can be found [here](https://github.com/zhangjiedev/pacman/)
